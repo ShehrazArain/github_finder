@@ -1,9 +1,9 @@
 ## How to Start
 
-### git clone 
+### git clone https://github.com/ShehrazArain/github_finder.git
 
 After this, you can run in cmd:
-### npm install
+### `npm install`
 
 after installing all dependences you can run below command to run project
 ### `npm start`
